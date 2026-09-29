@@ -2,23 +2,23 @@
 
 
 
-![Roberta_Fine_Tuning_Sentiment_Analysis](https://socialify.git.ci/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![transformer-sentiment-analysis](https://socialify.git.ci/danield36/transformer-sentiment-analysis/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis">
+<a href="https://github.com/danield36/transformer-sentiment-analysis">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/transformer-sentiment-analysis)
 
   <p align="center">
-<a href="https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FRoberta_Fine_Tuning_Sentiment_Analysis&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/transformer-sentiment-analysis">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2Ftransformer-sentiment-analysis&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis">
+<a href="https://github.com/danield36/transformer-sentiment-analysis">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -90,9 +90,9 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
   4. Push to the branch (`git push origin feature/your-feature`).
   5. Open a pull request.
 
-- If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis/issues) page.
+- If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/danield36/transformer-sentiment-analysis/issues) page.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions.
+- Contact me in [LinkedIn](https://www.linkedin.com/in/danield36) for questions.
 - ![PRs Welcome](https://img.shields.io/badge/🌐_PRs-Welcome-navy.svg?=for-the-badge) ![Ask me anything](https://img.shields.io/badge/❔_Ask%20me-anything-1abc9c.svg?=for-the-badge)  
 <br>
 
@@ -101,14 +101,6 @@ Thank you for exploring! 🚀
 
 <div align="center">
   
-----------------------
-> >  <br/>  &copy; *by Walid BOUSSOU, HINDA Abdeljebar, ASTIGHFAR Ismail, KAIS Zakaria, and AYAD Mounir*   🇲🇦 😄 <br/>  <br/>
-> > ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg)
-----------------------
-
-
-
-
 
 <details>
 
@@ -119,7 +111,7 @@ Thank you for exploring! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/stars/dark/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis/stargazers)
+[![Stargazers repo roster for @danield36/transformer-sentiment-analysis](http://reporoster.com/stars/dark/danield36/transformer-sentiment-analysis)](https://github.com/danield36/transformer-sentiment-analysis/stargazers)
 
 
 
@@ -129,14 +121,14 @@ Thank you for exploring! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/forks/dark/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis/network/members)
+[![Forkers repo roster for @danield36/transformer-sentiment-analysis](http://reporoster.com/forks/dark/danield36/transformer-sentiment-analysis)](https://github.com/danield36/transformer-sentiment-analysis/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/transformer-sentiment-analysis"/>
 </a>
 
 
@@ -145,30 +137,30 @@ Thank you for exploring! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/transformer-sentiment-analysis?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/transformer-sentiment-analysis?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
