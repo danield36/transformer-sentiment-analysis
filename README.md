@@ -35,7 +35,7 @@
 
 ## Introduction
 
-Welcome to our RoBERTa Sentiment Analysis project! In this repository, we explore the world of Natural Language Processing (NLP) by fine-tuning a RoBERTa Transformer for sentiment analysis. 
+Welcome to our transformer-sentiment-analysis project! In this repository, we explore the world of Natural Language Processing (NLP) by fine-tuning a RoBERTa Transformer for sentiment analysis. 
 
 ## Our Team
 
